@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amirhossein Karimi
 ===========================================================================================================================================
-Backend Developer | Python & Django Enthusiast | Computer Engineering Student @ PoliTo
+Backend Developer | Python & Django Enthusiast | 
+Computer Engineering Student @ PoliTo
 --------------------------------------------------------------------------------------
 
 I am a Computer Engineering student at Politecnico di Torino with a strong passion for backend development. My main focus is on building and deploying backend applications using Python, Django, and PostgreSQL. I have practical experience in designing database-driven web applications, integrating REST APIs, and implementing authentication systems to create high-performance and user-friendly solutions.
