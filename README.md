@@ -17,24 +17,38 @@ I am a Computer Engineering student at Politecnico di Torino with a strong passi
 **Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,celery" />
   </a>
 </p>
 
-**Tools & Frontend Basics**
+**DevOps & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode" />
+  </a>
+</p>
+
+**Frontend Basics**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
 ### 🚀 My Projects
 
-**1. To-Do List Web Application**
+**1. Finance Management REST API**
+   - An advanced, containerized REST API for managing personal finances, built with a professional development workflow.
+   - Features include JWT authentication, background tasks with Celery/Redis, automated testing with Pytest, a full CI/CD pipeline with GitHub Actions, and auto-generated documentation with Swagger.
+   - **[Link to Repository](https://github.com/Karimi-Amirhossein/CortexSys-Finance-Managment)**
+
+
+**2. To-Do List Web Application**
    - A full-stack task manager built with Django & PostgreSQL, featuring user authentication, CRUD operations, and a responsive UI.
    - **[Link to Repository](https://github.com/karimi-amirhossein/To-do-List-Django)**
 
-**2. Gym Database Management Application**
+
+**3. Gym Database Management Application**
    - A multi-page application using Streamlit to manage gym membership data, featuring optimized relational database schemas in PostgreSQL. Developed in a team environment.
    - *(Code available upon request)*
 
@@ -50,3 +64,11 @@ I am a Computer Engineering student at Politecnico di Torino with a strong passi
 <a href="http://www.github.com/karimi-amirhossein"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karimi-amirhossein&stroke=22c55e&background=1c1917&ring=64748b&fire=64748b&currStreakNum=22c55e&currStreakLabel=64748b&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 <a href="https://github.com/karimi-amirhossein" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimi-amirhossein&langs_count=10&title_color=64748b&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+### 🤝 Let's Collaborate
+
+I'm open to collaborating on open-source Django or REST API projects.
+
+If you're working on something cool with Python, feel free to reach out! 🚀
