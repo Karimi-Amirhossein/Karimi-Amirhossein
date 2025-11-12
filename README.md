@@ -110,10 +110,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimi-amirhossein&stroke=22c55e&background=0d1117&ring=22c55e&fire=22c55e&currStreakNum=94a3b8&currStreakLabel=22c55e&sideNums=94a3b8&sideLabels=94a3b8&dates=64748b&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimi-amirhossein&langs_count=10&title_color=22c55e&text_color=94a3b8&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
 </p>
 
