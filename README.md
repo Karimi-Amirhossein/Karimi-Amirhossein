@@ -101,19 +101,6 @@
   </a>
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimi-amirhossein&show_icons=true&count_private=true&title_color=22c55e&text_color=94a3b8&icon_color=22c55e&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimi-amirhossein&langs_count=10&title_color=22c55e&text_color=94a3b8&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</p>
-
----
 
 <h2 align="center">🤝 Let's Collaborate</h2>
 
