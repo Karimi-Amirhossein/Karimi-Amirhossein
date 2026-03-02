@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there!👋 I'm <span style="color:#22c55e;">Amirhossein Karimi</span></h1>
 
 <p align="center">
-  <strong>Backend Developer | Python & Django REST Framework Enthusiast</strong><br>
+  <strong>Junior Backend Developer | Python • Django • AWS Serverless |</strong><br>
   🎓 Computer Engineering Student @ Politecnico di Torino
 </p>
 
@@ -9,23 +9,22 @@
 
 <p align="center">
   <em>
-    I’m passionate about building scalable backend systems and clean REST APIs using <b>Python, Django, and PostgreSQL</b>.<br>
-    I enjoy working on authentication systems, database design, and containerized deployments with <b>Docker</b>.
+    I’m passionate about building scalable backend systems, serverless architectures, and clean REST APIs using <b>Python, Django, AWS, and PostgreSQL</b>.<br>
+    I enjoy designing secure data processing pipelines, database schemas, and containerized deployments with <b>Docker</b>.
   </em>
 </p>
 
 <p align="center">
-  🌍 Based in <b>Turin, Italy</b> • ✉️ <a href="mailto:mr.amirhossein138181@gmail.com">mr.amirhossein138181@gmail.com</a><br>
+  🌍 Based in <b>Turin, Italy</b> • ✉️ <a href="mailto:amir.h.karimi.dev@gmail.com">amir.h.karimi.dev@gmail.com</a><br>
   🧠 <b>Currently Learning:</b> Advanced Django REST Framework, FastAPI<br>
-  🔭 <b>Currently Working On:</b> Open-source Django projects with PostgreSQL, Docker & CI/CD<br>
-  💬 <b>Fun Fact:</b> I believe a missing semicolon can change the universe 😉
+  🔭 <b>Currently Working On:</b> High-performance Python backend systems, Docker & CI/CD workflows<br>
+  💬 <b>Fun Fact:</b> I strongly believe that "import this" is the answer to most of life's problems. 😉
 </p>
 
 ---
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<!-- 🖥️ Backend & Databases -->
 <p align="center">
   <strong>Backend & Databases</strong><br><br>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis" height="50" />
@@ -34,13 +33,11 @@
   <img src="https://cdn.simpleicons.org/stripe/635BFF" height="50" />
 </p>
 
-<!-- ⚙️ DevOps & Tools -->
 <p align="center">
-  <strong>DevOps & Tools</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,postman" height="50" />
+  <strong>Cloud, DevOps & Tools</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,vscode,postman" height="50" />
 </p>
 
-<!-- 🎨 Frontend Basics -->
 <p align="center">
   <strong>Frontend Basics</strong><br><br>
   <img src="https://skillicons.dev/icons?i=html,css" height="50" />
@@ -75,7 +72,7 @@
 
 ---
 
-<h3>🌤️ 3. Starview Weather CLI | <i>Technical Interview Project</i></h3>
+<h3>🌤️ 3. Starview Weather CLI | <i>Personal Project</i></h3>
 
 <p>
   • Built a modular CLI to fetch real-time weather data from the <b>OpenWeatherMap API</b>.<br>
