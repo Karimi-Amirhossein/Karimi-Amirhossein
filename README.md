@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there!👋 I'm <span style="color:#22c55e;">Amirhossein Karimi</span></h1>
 
 <p align="center">
-  <strong>Junior Backend Developer | Python • Django • AWS Serverless |</strong><br>
-  🎓 Computer Engineering Student @ Politecnico di Torino
+  <strong>Python Backend Developer | Django • AWS • PostgreSQL |</strong><br>
+  🎓 Computer Engineering @ Polito
 </p>
 
 ---
